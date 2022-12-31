@@ -210,14 +210,14 @@ p {
   font-family: "Noto Nastaliq Urdu", serif;
   font-size: 4rem;
   position: absolute;
-  top: -50%;
+  top: -55%;
   left: 30%;
 }
 .balloonTwo span {
   font-family: "Noto Nastaliq Urdu", serif;
   font-size: 4rem;
   position: absolute;
-  top: -50%;
+  top: -55%;
   left: 30%;
 }
 
@@ -225,7 +225,7 @@ p {
   font-family: "Noto Nastaliq Urdu", serif;
   font-size: 4rem;
   position: absolute;
-  top: -50%;
+  top: -55%;
   left: 30%;
 }
 
@@ -233,7 +233,7 @@ p {
   font-family: "Noto Nastaliq Urdu", serif;
   font-size: 4rem;
   position: absolute;
-  top: -50%;
+  top: -55%;
   left: 30%;
 }
 
@@ -243,4 +243,27 @@ p {
 
 .guest {
   margin-bottom: 20px;
+}
+
+.hand-icon {
+  position: absolute;
+  top: 65px;
+  right: 50%;
+  height: 50px;
+}
+
+.hand-icon img {
+  height: 100%;
+}
+
+.my-profile {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.my-profile a {
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  /* text-decoration: none; */
 }
